@@ -566,6 +566,9 @@
   .text-white {
     color: var(--color-white);
   }
+  .underline {
+    text-decoration-line: underline;
+  }
   .hover\:bg-blue-600 {
     &:hover {
       @media (hover: hover) {
